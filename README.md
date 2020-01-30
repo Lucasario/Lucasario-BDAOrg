@@ -22,3 +22,18 @@ as I could tell, this bayesian versus non-bayesian probability was a debate on t
 never even uttered. So I'm taking this could to learn about bayesian probability, learn more skills 
 that will be useful both in my chosen field of energy engineering, and any other field I find myself working 
 in. 
+
+Oh, right, I need to talk about my favorite type of statistical problem. I've kind of beat it to death
+at this point, but my favorite statistical problem of all time is the monty hall paradox. Do I even need to
+explain it? I first heard the problem on my favorite TV show of all time, Mythbusters, where they ran the experiment 
+100 times, switching 50 times, and sticking 50 times, and found that the guy switching was more than twice as likely
+to win. Although their statistical evidence was pretty conclusive, their explanation of said phemonemom was 
+barely existent, so I had to think it through myself. Here's the best explanation I've derived:
+Since we have 3 doors, and the prize is equally likely to be behind any door, the odds of you picking the right door
+first time around is 1 in 3. We'll call this event A. We also need to define event B as the event that the prize is behind
+the last door; the one you didn't pick, that you could switch to. Since there's always at least one empty door you didn't
+pick, and the host will never accidentally reveal the prize, opening the losing door doesn't change the probability of A. 
+So P(A) is still 1 and 3. But A and B are mutually exclusive, and collectively represent the entire sample space, so P(A)+P(B) = 1
+Since P(A) is 1 in 3, P(B) clearly has to be 2 in 3.
+
+Hey, I said it was the most concise way I could describe it, not that it's a concise way to explain it!
