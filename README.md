@@ -1,6 +1,6 @@
 # Lucasario-BDAOrg
 
-So, why did I decide to take this course?
+So, why did I, Cassius Peter, a grad student in ORIE, take this course?
 
 Well, the thing that put this course on my radar was that I needed a requirement
 to complete my Masters of Engineering in ORIE. But there were a lot of classes
