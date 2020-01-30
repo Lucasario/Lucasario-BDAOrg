@@ -29,7 +29,7 @@ at this point, but my favorite statistical problem of all time is the monty hall
 I first heard the problem Mythbusters, where they ran the experiment 
 100 times, switching 50 times, and sticking 50 times, and found that the guy switching was more than twice as likely
 to win. 
-!https://github.com/Lucasario/Lucasario-BDAOrg/blob/master/monty%20hall.PNG "This is my favorite show of all time, by the way"
+![alt text](https://github.com/Lucasario/Lucasario-BDAOrg/blob/master/monty%20hall.PNG "This is my favorite show of all time, by the way")
 Although their statistical evidence was pretty conclusive, their explanation of said phemonemom was 
 barely existent, so I had to think it through myself. Here's the best explanation I've derived:
 Since we have 3 doors, and the prize is equally likely to be behind any door, the odds of you picking the right door
