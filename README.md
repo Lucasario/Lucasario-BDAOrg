@@ -24,8 +24,9 @@ that will be useful both in my chosen field of energy engineering, and any other
 in. 
 
 Oh, right, I need to talk about my favorite type of statistical problem. I've kind of beat it to death
-at this point, but my favorite statistical problem of all time is the monty hall paradox. Do I even need to
-explain it? I first heard the problem Mythbusters, where they ran the experiment 
+at this point, but my favorite statistical problem of all time is the monty hall paradox.
+(Editor's note: this was written before we covered the monty hall problem in class)
+I first heard the problem Mythbusters, where they ran the experiment 
 100 times, switching 50 times, and sticking 50 times, and found that the guy switching was more than twice as likely
 to win. 
 !https://github.com/Lucasario/Lucasario-BDAOrg/blob/master/monty%20hall.PNG "This is my favorite show of all time, by the way"
