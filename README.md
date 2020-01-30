@@ -25,9 +25,11 @@ in.
 
 Oh, right, I need to talk about my favorite type of statistical problem. I've kind of beat it to death
 at this point, but my favorite statistical problem of all time is the monty hall paradox. Do I even need to
-explain it? I first heard the problem on my favorite TV show of all time, Mythbusters, where they ran the experiment 
+explain it? I first heard the problem Mythbusters, where they ran the experiment 
 100 times, switching 50 times, and sticking 50 times, and found that the guy switching was more than twice as likely
-to win. Although their statistical evidence was pretty conclusive, their explanation of said phemonemom was 
+to win. 
+!https://github.com/Lucasario/Lucasario-BDAOrg/blob/master/monty%20hall.PNG "This is my favorite show of all time, by the way"
+Although their statistical evidence was pretty conclusive, their explanation of said phemonemom was 
 barely existent, so I had to think it through myself. Here's the best explanation I've derived:
 Since we have 3 doors, and the prize is equally likely to be behind any door, the odds of you picking the right door
 first time around is 1 in 3. We'll call this event A. We also need to define event B as the event that the prize is behind
